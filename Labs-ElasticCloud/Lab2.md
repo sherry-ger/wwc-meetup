@@ -50,7 +50,7 @@ Rename the elastic-agent-<version>-windows directory to Elastic-Agent.
 
 <img src="/Labs-ElasticCloud/images/ingest6.png" alt="virtual_class" width="440" height="480">
 
-9. In the Nginx access logs path, please provide the Nginx log location where to our download from step 1. For me, it is at
+9. In the Nginx access logs path, please provide the Nginx log location to our download from step 1. For me, it is at
 
 `/Users/sherryger/SherryDocuments/wwc-meetup/Data/*.log`
 
@@ -70,4 +70,6 @@ Rename the elastic-agent-<version>-windows directory to Elastic-Agent.
 
 <img src="/Labs-ElasticCloud/images/ingest10.png" alt="virtual_class" width="430" height="640">
 
+That is it!  Let's take a look at our data in Kibana dashboards.
 
+<img src="/Labs-ElasticCloud/images/ingest11.png" alt="virtual_class" width="935" height="535">
