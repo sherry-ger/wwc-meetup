@@ -44,7 +44,7 @@ Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up 
 
 Please copy **the auto generated password** and download it as well.
 
-<img src="/Labs-ElasticCloud/images/cloud7.png" alt="virtual_class" width=470" height="560">
+<img src="/Labs-ElasticCloud/images/cloud7.png" alt="virtual_class" width="470" height="560">
 
 14.  When the cluster is ready, click on launch next to the Kibana icon
 
