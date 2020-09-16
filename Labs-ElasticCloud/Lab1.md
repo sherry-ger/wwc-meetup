@@ -16,15 +16,15 @@ Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up 
 
 2. Enter your business email and a password and click on Create account. 
 
-<img src="/Labs-ElasticCloud/images/cloud1.png" alt="virtual_class" width="300" height="200">
+<img src="/Labs-ElasticCloud/images/cloud1.png" alt="virtual_class" width="400" height="300">
 
 3. You should now be looking at the Welcome Screen for your trial account.  Click “Create deployment”.
 
-<img src="/Labs-ElasticCloud/images/cloud2.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/cloud2.png" alt="virtual_class" width="500" height="400">
 
 6.  Give your deployment a name. 
 
-<img src="/Labs-ElasticCloud/images/cloud3.png" alt="virtual_class" width="700" height="150">
+<img src="/Labs-ElasticCloud/images/cloud3.png" alt="virtual_class" width="400" height="750">
 
 7.  You have the choice here to pick a public cloud platform and region of your choice. For the labs let the default region be the pick. 
 
