@@ -50,5 +50,5 @@ Please copy **the auto generated password** and download it as well.
 
 <img src="/Labs-ElasticCloud/images/cloud8.png" alt="virtual_class" width="620" height="420">
 
-That’s it for this lab! You have a deployment now ready to start ingesting and working with the data. 
+That’s it for this lab! You have a deployment now ready to start ingesting and working with data. 
 
