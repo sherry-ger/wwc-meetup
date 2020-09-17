@@ -19,7 +19,7 @@ tar xzvf elastic-agent-7.9.1-darwin-x86_64.tar.gz
 **Windows**
 
 ```
-Download the Elastic Agent Windows zip file from the [downloads page](https://www.elastic.co/downloads/elastic-agent).
+Download the Elastic Agent Windows zip file from https://www.elastic.co/downloads/elastic-agent
 Extract the contents of the zip file into C:\Program Files.
 Rename the elastic-agent-<version>-windows directory to Elastic-Agent.
 ```
